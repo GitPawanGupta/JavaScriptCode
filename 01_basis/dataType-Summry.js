@@ -25,15 +25,20 @@ const heros = ["Sunny","Akshay","Sunil","Mithun"];
 
 //console.log(heros[2]);
 
-let myObj = {
-    name: "Pawan",
-    age: 25
-}
+// let myObj = {
+//     name: "Pawan",
+//     age: 25
+// }
 //console.log(myObj);
 
-const myFunction =function(){
-    console.log("Hello World");
+//const myFunction =function(){
+    //console.log("Hello World");
     
-}
-log
+//}
+//console.log(myFunction);
+
+//*************************************************
+
+
+
 
